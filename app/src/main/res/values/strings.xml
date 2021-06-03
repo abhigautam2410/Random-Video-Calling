@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Video Calling</string>
+    <string name="agora_app_id">6e78bae75ed74ac4824533dc8a968924</string>
+    <string name="agora_access_token">0066e022a27c2e34ce6bdf8ef21084a1b9bIAARC81ZZeyNwBhykxijrPQ2R8ceOKrGkevPr5pr9SrpmovQvqEAAAAAEAA7WraadFW4YAEAAQBzVbhg</string>
+    <string name="appCertificate">9350c277d11643698aa2f9dbe4f63ddd</string>
+    <string name="channelName">7d72365eb983485397e3e3f9d460bdda</string>
+    <string name="uid">2082341273</string>
+</resources>
